@@ -5,7 +5,7 @@
 Microsoft .NET の公式サイトから、「.NET Core SDK 2.0」のインストーラーをダウンロードします。  
 <https://www.microsoft.com/net/download/core>
 
-![](./images/dotnetcore20sdk_download_01.png)
+![](./images/win_dotnetcore20sdk_download_01.png)
 
 ※ exe形式とzip形式がありますが、exe形式の方をダウンロードしてください。  
 ※ OSのビット数に応じて「OSが64bit → x64」「OSが32bit → x86」のいずれかをダウンロードしてください。
@@ -26,12 +26,12 @@ Microsoft .NET の公式サイトから、「.NET Core SDK 2.0」のインスト
 ダウンロードしたインストーラーを実行します。  
 「Install」ボタンを押すとインストールが開始します。
 
-![](./images/dotnetcore20sdk_install_01.png)
+![](./images/win_dotnetcore20sdk_install_01.png)
 
 途中での設定項目は特にありません。  
 以下の画面が表示されれば、インストール処理は完了です。
 
-![](./images/dotnetcore20sdk_install_02.png)
+![](./images/win_dotnetcore20sdk_install_02.png)
 
 
 ## インストール後の確認
